@@ -1,0 +1,8 @@
+{
+  "notification": [
+    { 
+    "title": "Mensaje Del Servidor", 
+    "body": "Post 1" 
+    },
+  ]
+  }
